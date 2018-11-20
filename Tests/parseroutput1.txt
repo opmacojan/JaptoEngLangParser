@@ -1,0 +1,182 @@
+Script started on Tue 28 Nov 2017 10:50:54 AM PST
+]0;griff073@empress:~/cs421/newdebug[griff073@empress newdebug]$ ./a.out
+Enter the name of the file to open: test
+Opening file test...
+Processing story. . .
+======= Processing <s> =======
+Scanner was called . . . 
+Processing <noun>
+MATCHED PRONOUN
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Processing <rule_s2>
+Scanner was called . . . 
+Processing <be>
+MATCHED IS
+Scanner was called . . . 
+MATCHED PERIOD
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+Processing <noun>
+MATCHED PRONOUN
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Processing <rule_s2>
+Scanner was called . . . 
+Processing <be>
+MATCHED IS
+Scanner was called . . . 
+MATCHED PERIOD
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Processing <rule_s2>
+Scanner was called . . . 
+MATCHED OBJECT
+Processing <rule_s3>
+Scanner was called . . . 
+Processing <verb>
+MATCHED WORD2
+Processing <tense>
+Scanner was called . . . 
+MATCHED VERB
+Scanner was called . . . 
+MATCHED PERIOD
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+Processing <noun>
+MATCHED PRONOUN
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Processing <rule_s2>
+Scanner was called . . . 
+MATCHED OBJECT
+Processing <rule_s3>
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Scanner was called . . . 
+MATCHED DESTINATION
+Processing <verb>
+Scanner was called . . . 
+MATCHED WORD2
+Processing <tense>
+Scanner was called . . . 
+MATCHED VERBPAST
+Scanner was called . . . 
+MATCHED PERIOD
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+MATCHED CONNECTOR
+Processing <noun>
+Scanner was called . . . 
+MATCHED WORD1
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <verb>
+MATCHED WORD2
+Processing <tense>
+Scanner was called . . . 
+MATCHED VERBPASTNEG
+Scanner was called . . . 
+MATCHED PERIOD
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+MATCHED CONNECTOR
+Processing <noun>
+Scanner was called . . . 
+MATCHED PRONOUN
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Processing <rule_s2>
+Scanner was called . . . 
+Processing <be>
+MATCHED WAS
+Scanner was called . . . 
+MATCHED PERIOD
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+MATCHED CONNECTOR
+Processing <noun>
+Scanner was called . . . 
+MATCHED WORD1
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Processing <rule_s2>
+Scanner was called . . . 
+MATCHED DESTINATION
+Processing <verb>
+Scanner was called . . . 
+MATCHED WORD2
+Processing <tense>
+Scanner was called . . . 
+MATCHED VERBPAST
+Scanner was called . . . 
+MATCHED PERIOD
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <verb>
+MATCHED WORD2
+Processing <tense>
+Scanner was called . . . 
+MATCHED VERBPAST
+Scanner was called . . . 
+MATCHED PERIOD
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+END OF FILE REACHED
+]0;griff073@empress:~/cs421/newdebug[griff073@empress newdebug]$ exit
+exit
+
+Script done on Tue 28 Nov 2017 10:51:20 AM PST

@@ -1,0 +1,25 @@
+Script started on Tue 28 Nov 2017 11:08:01 AM PST
+]0;griff073@empress:~/cs421/newdebug[griff073@empress newdebug]$ ./a.out
+Enter the name of the file to open: partBtest4
+Opening file partBtest4...
+Processing story. . .
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+Processing <noun>
+MATCHED PRONOUN
+Scanner was called . . . 
+MATCHED SUBJECT
+Processing <rule_s1>
+Scanner was called . . . 
+Processing <noun>
+MATCHED WORD1
+Processing <rule_s2>
+Scanner was called . . . 
+SYNTAX ERROR: unexpected VERBPAST found in rule_s2.
+Halting parser....
+]0;griff073@empress:~/cs421/newdebug[griff073@empress newdebug]$ exit
+exit
+
+Script done on Tue 28 Nov 2017 11:08:26 AM PST

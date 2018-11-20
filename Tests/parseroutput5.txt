@@ -1,0 +1,15 @@
+Script started on Tue 28 Nov 2017 11:08:43 AM PST
+]0;griff073@empress:~/cs421/newdebug[griff073@empress newdebug]$ ./a.out
+Enter the name of the file to open: partBtest5
+Opening file partBtest5...
+Processing story. . .
+
+======= Processing <s> =======
+
+Scanner was called . . . 
+SYNTAX ERROR: unexpected SUBJECT found in rule_s.
+Halting parser....
+]0;griff073@empress:~/cs421/newdebug[griff073@empress newdebug]$ exit
+exit
+
+Script done on Tue 28 Nov 2017 11:09:19 AM PST
